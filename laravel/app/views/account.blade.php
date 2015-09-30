@@ -58,7 +58,11 @@ if(isset($_GET['pid'])){
 		</table>
 	{{ Form::close() }}
 </div>
+<<<<<<< HEAD
 	<hr style='margin-top:15px;'/>
+=======
+	<hr/ style='margin-top:15px;'>
+>>>>>>> e597272887770abca6b52fc8f03d24f6c8f7e0e2
 <div align="center" style="margin: 20px;" >
 		<table cellpadding="0" cellspacing="0" border="1"class="sortable" id="sorter" style='color: black;'>
 		<tr>

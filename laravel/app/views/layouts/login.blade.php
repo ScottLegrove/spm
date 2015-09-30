@@ -42,7 +42,11 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
                 </button>
+<<<<<<< HEAD
                 <a class="navbar-brand page-scroll" href="/spm/laravel/public/">
+=======
+                <a class="navbar-brand page-scroll" href="http://f4914325.gblearn.com/Comp1230/Assignments/StudentProjectManager/laravel/public/">
+>>>>>>> e597272887770abca6b52fc8f03d24f6c8f7e0e2
                     <i class="fa fa-play-circle"></i>  <span class="light">SPM</span> Home
                 </a>
             </div>
